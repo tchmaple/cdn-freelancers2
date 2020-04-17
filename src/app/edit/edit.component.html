@@ -1,0 +1,47 @@
+ <app-header></app-header>
+
+<div class="content" role="main">
+  <div class="container" >
+    <h4 style="padding-bottom: 20px;">Edit User</h4>
+  
+    <form [formGroup]="updateForm" (ngSubmit)="onSubmit()">
+      <div class="form-group row">
+        <label for="inputName3" class="col-sm-3 col-form-label">User Name</label>
+        <div class="col-sm-9">
+          <input type="username" class="form-control" formControlName="name" required>
+        </div>
+      </div>
+      <div class="form-group row">
+        <label for="inputEmail3" class="col-sm-3 col-form-label">Email</label>
+        <div class="col-sm-9">
+          <input type="email" class="form-control" id="inputEmail3" formControlName="email" required>
+        </div>
+      </div>
+      <div class="form-group row">
+        <label for="inputPhone3" class="col-sm-3 col-form-label">Phone Number</label>
+        <div class="col-sm-9">
+          <input type="phone" class="form-control" id="inputPhone3" formControlName="phone" required>
+        </div>
+      </div>
+      <div class="form-group row">
+        <label for="inputSkill3" class="col-sm-3 col-form-label">Skillsets</label>
+        <div class="col-sm-9">
+          <input type="skillsets" class="form-control" id="inputSkill3" formControlName="skillsets" required>
+        </div>
+      </div>
+      <div class="form-group row">
+        <label for="inputHobby3" class="col-sm-3 col-form-label">Hobby</label>
+        <div class="col-sm-9">
+          <input type="hobby" class="form-control" id="inputHobby3" formControlName="hobby">
+        </div>
+      </div>
+      <div class="form-group row">
+        <div class="col-sm-10">
+          <button type="submit" [disabled]="!updateForm.valid" class="btn btn-primary">Update</button>
+        </div>
+      </div>
+    </form>
+  </div>
+
+  <app-footer></app-footer>
+  </div>

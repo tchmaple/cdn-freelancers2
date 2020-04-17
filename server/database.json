@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sister27 ",
+      "email": "Sister27@gmail.com",
+      "phone": "(186) 076-4705 x96379",
+      "skillsets": "sed quia harum",
+      "hobby": "rerum dolore consequatur"
+    },
+    {
+      "id": 2,
+      "name": "Jayden.Stark46",
+      "email": "Fausto70@gmail.com",
+      "phone": "074.383.5881",
+      "skillsets": "facilis doloremque et",
+      "hobby": "ducimus omnis hic"
+    },
+    {
+      "id": 3,
+      "name": "Aryanna_Dietrich93",
+      "email": "Shane.Haag87@yahoo.com",
+      "phone": "992.148.7442 x964",
+      "skillsets": "est omnis autem",
+      "hobby": "eligendi ipsam deleniti"
+    },
+    {
+      "id": 4,
+      "name": "Imelda54",
+      "email": "Kamryn.Sawayn45@yahoo.com",
+      "phone": "(953) 951-5235 x235",
+      "skillsets": "corrupti sed voluptatem",
+      "hobby": "doloribus omnis omnis"
+    },
+    {
+      "id": 5,
+      "name": "Carley_Schulist",
+      "email": "Ocie_Smith24@gmail.com",
+      "phone": "750.436.0629",
+      "skillsets": "dolores exercitationem quia",
+      "hobby": "nisi sit tenetur"
+    },
+    {
+      "id": 6,
+      "name": "Bruce53",
+      "email": "Trenton.Smitham@yahoo.com",
+      "phone": "(281) 182-8771 x73319",
+      "skillsets": "necessitatibus porro saepe",
+      "hobby": "quibusdam sed molestias"
+    },
+    {
+      "id": 7,
+      "name": "Collin85",
+      "email": "Aryanna.Morar@gmail.com",
+      "phone": "782.914.2306 x779",
+      "skillsets": "cumque laudantium unde",
+      "hobby": "ipsum aut voluptatem"
+    },
+    {
+      "id": 8,
+      "name": "Tony.Lang",
+      "email": "Graham47@gmail.com",
+      "phone": "1-618-106-6352 x6971",
+      "skillsets": "quis dolorem doloremque",
+      "hobby": "voluptates enim necessitatibus"
+    },
+    {
+      "id": 9,
+      "name": "Luella62",
+      "email": "Theodore47@yahoo.com",
+      "phone": "628.399.1972 x88790",
+      "skillsets": "itaque quis ex",
+      "hobby": "harum rerum sit"
+    },
+    {
+      "id": 10,
+      "name": "Gilberto_Weissnat",
+      "email": "Cydney.Stanton@hotmail.com",
+      "phone": "(904) 031-7647 x17643",
+      "skillsets": "animi cumque rerum",
+      "hobby": "id similique in"
+    },
+    {
+      "id": 11,
+      "name": "Leora.McCullough",
+      "email": "Vallie_Hilll87@gmail.com",
+      "phone": "903-225-0403",
+      "skillsets": "amet consequatur fugit",
+      "hobby": "ipsum unde rerum"
+    },
+    {
+      "id": 12,
+      "name": "Tom.Jaskolski",
+      "email": "Francesco96@yahoo.com",
+      "phone": "869-130-1188",
+      "skillsets": "culpa et ut",
+      "hobby": "ad ut dolore"
+    },
+    {
+      "id": 13,
+      "name": "Dameon.Gusikowski",
+      "email": "Gloria_Graham3@hotmail.com",
+      "phone": "(080) 424-0624 x592",
+      "skillsets": "voluptates et magnam",
+      "hobby": "deleniti nulla quia"
+    },
+    {
+      "id": 14,
+      "name": "Rahul97",
+      "email": "Corene.Feil@yahoo.com",
+      "phone": "1-309-811-0101 x9576",
+      "skillsets": "corrupti vero nisi",
+      "hobby": "tenetur deserunt et"
+    },
+    {
+      "id": 15,
+      "name": "Justyn_Bechtelar",
+      "email": "Ona18@gmail.com",
+      "phone": "(864) 762-7016",
+      "skillsets": "voluptatem voluptate aut",
+      "hobby": "explicabo voluptatem necessitatibus"
+    },
+    {
+      "id": 16,
+      "name": "Michelle_Quitzon68",
+      "email": "Alice.Dietrich@gmail.com",
+      "phone": "1-276-805-9734 x5940",
+      "skillsets": "libero sequi doloribus",
+      "hobby": "vel eligendi doloribus"
+    },
+    {
+      "id": 17,
+      "name": "Alvena_Roob58",
+      "email": "Tatyana0@yahoo.com",
+      "phone": "699.393.0865 x89739",
+      "skillsets": "officia sint a",
+      "hobby": "architecto velit tenetur"
+    },
+    {
+      "name": "Sammy",
+      "email": "sammy@gmail.com",
+      "phone": "018356486365",
+      "skillsets": "design",
+      "hobby": "cooking",
+      "id": 18
+    }
+  ]
+}
