@@ -1,27 +1,28 @@
-# MyApp
+# CDN
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
-## Development server
+## Before start
+1. Clone this git or download the zip file, unzip it and put in a folder
+2. Open up your console, navigate to the folder directory and run npm install. 
+Make sure you have npm, node.js, WAMP/XAMPP preinstalled.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Steps to setup database
+1. Open up your console, navigate to the folder directory, run `npm run server`
+2. The database will automatically run on "http://localhost:3000/", which is from `server/database.json`
 
-## Code scaffolding
+## Steps to setup website
+1. Open up your console, navigate to the folder directory, run `ng serve`
+2. Open web browser and navigate to "http://localhost:4200/"
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Functionality highlight
+- The homepage shows full list of freelancers registered. Edit or delete can be done at the same page.
+- Navigation bar will appear at all the pages, mainly have two function:
+  - To navigate back to full list
+  - To register a new user
+  
+### Technology used
+- Angular 9
+- faker for database simulator
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+  
